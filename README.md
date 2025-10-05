@@ -1,12 +1,10 @@
-
-readme_duck = """<!-- Encabezado con GIF de pato bailando -->
+<!-- Encabezado con GIF de pato bailando -->
 <div align="center">
-  <img src="https://usagif.com/wp-content/uploads/2022/4hv9xm/dancing-duck-acegifcom-29.gif" width="600" alt="Dancing Duck">
+  <img src="https://usagif.com/wp-content/uploads/2022/4hv9xm/dancing-duck-acegifcom-55.gif" width="600" alt="Dancing Duck">
 </div>
 
 <h1 align="center">👋 Hola, soy <span style="color:#00FFFF;">Daniel Alonso Porras Nuñez</span></h1>
 <h3 align="center">🌦️ Machine Learning y Teledetección para la Gestión de Riesgos Climáticos | Data & Climate Scientist</h3>
-
 ---
 
 ### 🌎 English version below
