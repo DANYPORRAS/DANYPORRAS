@@ -1,8 +1,7 @@
-<!-- Encabezado con GIF -->
+<!-- Encabezado con GIF personalizado -->
 <div align="center">
-  <img src="[https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif](https://i.gifer.com/f4x.gif)" width="600" alt="Data Science Animation">
+  <img src="https://i.gifer.com/f4x.gif" width="600" alt="Tech Futuristic Animation">
 </div>
-
 <h1 align="center">👋 Hola, soy <span style="color:#00FFFF;">Daniel Alonso Porras Nuñez</span></h1>
 <h3 align="center">🌦️ Machine Learning y Teledetección para la Gestión de Riesgos Climáticos | Data & Climate Scientist</h3>
 
