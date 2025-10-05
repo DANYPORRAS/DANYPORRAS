@@ -1,6 +1,6 @@
 <!-- Encabezado con GIF personalizado -->
 <div align="center">
-  <img src="https://i.gifer.com/f4x.gif" width="600" alt="Tech Futuristic Animation">
+  <img src="https://tenor.com/es-US/view/pato-bailar-pato-bailando-gorro-pato-con-gorro-gif-21822795" width="600" alt="Tech Futuristic Animation">
 </div>
 <h1 align="center">👋 Hola, soy <span style="color:#00FFFF;">Daniel Alonso Porras Nuñez</span></h1>
 <h3 align="center">🌦️ Machine Learning y Teledetección para la Gestión de Riesgos Climáticos | Data & Climate Scientist</h3>
