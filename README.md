@@ -1,6 +1,7 @@
-<!-- Encabezado con GIF de pato bailando -->
+
+readme_duck = """<!-- Encabezado con GIF de pato bailando -->
 <div align="center">
-  <img src="https://usagif.com/wp-content/uploads/2022/4hv9xm/dancing-duck-acegifcom-55.gif" width="600" alt="Dancing Duck">
+  <img src="https://usagif.com/wp-content/uploads/2022/4hv9xm/dancing-duck-acegifcom-29.gif" width="600" alt="Dancing Duck">
 </div>
 
 <h1 align="center">👋 Hola, soy <span style="color:#00FFFF;">Daniel Alonso Porras Nuñez</span></h1>
