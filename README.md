@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hola, soy <span style="color:#00FFFF;">Daniel Porras Nuñez</span></h1>
 <!-- Encabezado con GIF de pato bailando -->
-<!-- Encabezado con GIF de pato bailando -->
+
 <!-- Animación de texto tipo máquina de escribir -->
 <div align="center">
 
