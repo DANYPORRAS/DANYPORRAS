@@ -9,8 +9,6 @@
 
 ### 🌎 English version below
 
----
-
 ## 🧠 Sobre mí
 
 🎓 **Bachiller en Ingeniería Meteorológica y Gestión de Riesgos Climáticos** por la Universidad Nacional Agraria La Molina (UNALM).  
