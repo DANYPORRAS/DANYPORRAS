@@ -50,21 +50,20 @@
 
 ## 🧾 Certificaciones destacadas
 
-🎓 **Python Avanzado** — INFOX / SDC Learning  
-🎓 **SIG Avanzado (ArcGIS, QGIS, ENVI)** — MasterGIS  
-🎓 **Teledetección con Python** — Geomática Ambiental  
-🎓 **Gestión de Riesgos de Desastres con ArcGIS** — MaterGIS  
 🎓 **Data Science Specialist with Python** — SDC  
+🎓 **SIG Avanzado (ArcGIS, QGIS, ENVI)** — MasterGIS  
+🎓 **Teledetección con Python , R y JavaScript** — Geomática Ambiental  
+🎓 **Esperto en la Gestión de Riesgos de Desastres con ArcGIS** — MaterGIS 
 
 ---
 
 ## 🌐 Contacto y Redes
 
-<div align="center">
+<div align="left">
 
 📧 **dani96pn@gmail.com**  
 🔗 [LinkedIn - Daniel Porras Nuñez](https://www.linkedin.com/in/DanielPorrasNu%C3%B1ez/)  
-💻 [GitHub - DanielPorrasNuñez](https://github.com/DanielPorrasNuñez)  
+💻 [GitHub - DanielPorrasNuñez](https://github.com/DANYPORRAS)  
 
 </div>
 
