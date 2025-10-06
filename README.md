@@ -44,15 +44,6 @@
 🔹 **Automatización de análisis SIG** — Scripts en Python y ModelBuilder para evaluación de cuencas hidrográficas.  
 🔹 **Teledetección multitemporal** — Análisis de imágenes satelitales con R y Google Earth Engine.
 
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielPorrasNuñez&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPorrasNuñez&layout=compact&theme=tokyonight)
-
 </div>
 
 ---
