@@ -7,18 +7,12 @@
 
 <h3 align="center">🌦️ Automatización , Machine Learning y Teledetección para la Gestión de Riesgos Climáticos | Cientifico de datos climaticos</h3>
 
-### 🌎 English version below
-
 ## 🧠 Sobre mí
 
 🎓 **Bachiller en Ingeniería Meteorológica y Gestión de Riesgos Climáticos** por la Universidad Nacional Agraria La Molina (UNALM).  
-💡 Apasionado por el uso de **Machine Learning, SIG, Teledetección y Ciencia de Datos** para comprender los fenómenos atmosféricos y apoyar la **gestión del riesgo de desastres**.  
+💡 Apasionado por el uso de **Machine Learning, SIG, Teledetección , Automatizacion y Ciencia de Datos** para comprender los fenómenos atmosféricos y apoyar la **gestión del riesgo de desastres**.  
 🚀 Ganador del **1er puesto del concurso Smart Campus - UNALM 2025** con el proyecto *Monitoreo del cielo con Machine Learning*.  
 📘 Creador de la **Guía práctica de Sistemas de Información Geográfica (SIG)** en UNALM.  
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="400" alt="Weather Radar Animation">
-</div>
 
 ---
 
