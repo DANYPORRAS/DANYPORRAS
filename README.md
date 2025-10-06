@@ -83,14 +83,7 @@ I’m constantly exploring how artificial intelligence can help mitigate the eff
 
 ⭐ *“Modeling the climate, understanding the risks.”*  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="Waving hand">
-</div>
 
 ---
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=DanielPorrasNuñez&color=blueviolet&style=flat-square)
 
 </div>
