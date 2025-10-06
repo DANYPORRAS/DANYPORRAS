@@ -1,6 +1,12 @@
 <h1 align="left">👋 Hola, soy <span style="color:#00FFFF;">Daniel Porras Nuñez</span></h1>
 <!-- Encabezado con GIF de pato bailando -->
 <!-- Encabezado con GIF de pato bailando -->
+<!-- Animación de texto tipo máquina de escribir -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=🌦️+Machine+Learning+y+Teledetección;🌍+Ciencia+de+Datos+Aplicada+al+Clima;⚙️+Automatización+con+Python+y+GIS)](https://git.io/typing-svg)
+<!-- Encabezado con GIF de pato bailando -->
+</div>
 <div align="center">
   <img src="https://usagif.com/wp-content/uploads/2022/4hv9xm/dancing-duck-acegifcom-15.gif" width="600" alt="Dancing Duck">
 </div>
