@@ -31,8 +31,7 @@
 ![SWAT](https://img.shields.io/badge/SWAT-4169E1?style=for-the-badge)
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Teledetección](https://img.shields.io/badge/Remote%20Sensing-00BFFF?style=for-the-badge)
-![Gestión de Riesgos](https://img.shields.io/badge/Risk%20Management-8A2BE2?style=for-the-badge)
+![Teledeteccion](https://img.shields.io/badge/Remote%20Sensing-00BFFF?style=for-the-badge)
 
 </div>
 
