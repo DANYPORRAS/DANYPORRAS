@@ -5,8 +5,7 @@
   <img src="https://usagif.com/wp-content/uploads/2022/4hv9xm/dancing-duck-acegifcom-15.gif" width="600" alt="Dancing Duck">
 </div>
 
-<h3 align="center">🌦️ Machine Learning y Teledetección para la Gestión de Riesgos Climáticos | Data & Climate Scientist</h3>
----
+<h3 align="center">🌦️ Automatización , Machine Learning y Teledetección para la Gestión de Riesgos Climáticos | Data & Climate Scientist</h3>
 
 ### 🌎 English version below
 
